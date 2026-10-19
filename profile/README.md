@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ AquaForge Ecosystem
-### The Next-Generation Minecraft Server Studio & 24 Flagship Plugin Suite
+### The Next-Generation Minecraft Server Studio & 25 Flagship Plugin Suite
 **Universal Support for Paper / Purpur 1.20.x through 1.21.11 (Mounts of Mayhem Ready)**
 
 [![PaperMC](https://img.shields.io/badge/Platform-Paper%20%7C%20Purpur-00d2ff?style=for-the-badge&logo=minecraft)](https://papermc.io)
@@ -12,7 +12,7 @@
 ---
 
 ### 🌐 Welcome to AquaForge
-**AquaForge** is a complete, self-sufficient Minecraft server network framework. Designed to eliminate third-party dependencies, AquaForge delivers an enterprise web orchestrator with 1-click server wizards, zero-portforward Edge tunnels, and **24 native standalone flagship plugins** authored from scratch.
+**AquaForge** is a complete, self-sufficient Minecraft server network framework. Designed to eliminate third-party dependencies, AquaForge delivers an enterprise web orchestrator with 1-click server wizards, zero-portforward Edge tunnels, and **25 native standalone flagship plugins** authored from scratch.
 
 <br />
 
@@ -22,7 +22,7 @@
 
 </div>
 
-## 📦 The 24 Flagship Plugin Suite
+## 📦 The 25 Flagship Plugin Suite
 
 Every plugin in the Aqua ecosystem is built with modern Java 21, Paper 1.21 Data Components, and Kyori Adventure. Zero external dependencies required.
 
@@ -34,9 +34,10 @@ Every plugin in the Aqua ecosystem is built with modern Java 21, Paper 1.21 Data
 | 🐕 [**AquaWatchdog**](https://github.com/efekkoc/AquaWatchdog) | `1.20.x – 1.21.11` | Real-time sliding window CPS, raycast vector reach anti-cheat & Discord webhook triage |
 | 👮 [**AquaStaff**](https://github.com/efekkoc/AquaStaff) | `1.20.x – 1.21.11` | Unified staff mode (`/staff`), silent vanish, suspect freeze lockdown & live `/invsee` |
 
-### 💰 Economy, Market & Commerce
+### 💰 Economy, Monetization & Web Store
 | Plugin | Version | Description |
 |---|---|---|
+| 👑 [**AquaVIP**](https://github.com/efekkoc/AquaVIP) | `1.20.x – 1.21.11` | Enterprise web-store delivery sync, timed subscriptions, full server priority bypass & perks suite |
 | 🏦 [**AquaEconomy**](https://github.com/efekkoc/AquaEconomy) | `1.20.x – 1.21.11` | Sub-millisecond in-memory banking, Vault API provider, interest rates & peer `/pay` |
 | 🛒 [**AquaMarket**](https://github.com/efekkoc/AquaMarket) | `1.20.x – 1.21.11` | 54-slot virtual auction house (`/ah`), anti-loss return mailbox & sales tax sinks |
 
