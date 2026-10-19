@@ -42,7 +42,7 @@ Every plugin in the Aqua ecosystem is built with modern Java 21, Paper 1.21 Data
 ### 🗺️ World, Claims, Civilizations & Survival
 | Plugin | Version | Description |
 |---|---|---|
-| 🪦 [**AquaSurvival**](https://github.com/efekkoc/AquaSurvival) | `1.20.x – 1.21.11` | Enterprise survival & SMP mechanics (3D Graves, BossBar sleep, silk spawners & elevators) |
+| 🪦 [**AquaSurvival**](https://github.com/efekkoc/AquaSurvival) | `1.20.x – 1.21.11` | Enterprise survival & SMP engine (Spawn sanctuary, no-hunger, 1-player sleep, 3D graves & elevators) |
 | 🏛️ [**AquaNations**](https://github.com/efekkoc/AquaNations) | `1.20.x – 1.21.11` | Enterprise civilizations, towns, nations & 3D display monuments engine |
 | 🗺️ [**AquaMap**](https://github.com/efekkoc/AquaMap) | `1.20.x – 1.21.11` | Clientless hardware-accelerated 60 FPS Canvas minimap, player radar & HUD compass |
 | 🚩 [**AquaClaims**](https://github.com/efekkoc/AquaClaims) | `1.20.x – 1.21.11` | Chunk-based land claiming, glowing particle border walls, grief prevention & `/trust` |
