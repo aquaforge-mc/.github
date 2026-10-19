@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ AquaForge Ecosystem
-### The Next-Generation Minecraft Server Studio & 23 Flagship Plugin Suite
+### The Next-Generation Minecraft Server Studio & 24 Flagship Plugin Suite
 **Universal Support for Paper / Purpur 1.20.x through 1.21.11 (Mounts of Mayhem Ready)**
 
 [![PaperMC](https://img.shields.io/badge/Platform-Paper%20%7C%20Purpur-00d2ff?style=for-the-badge&logo=minecraft)](https://papermc.io)
@@ -12,7 +12,7 @@
 ---
 
 ### 🌐 Welcome to AquaForge
-**AquaForge** is a complete, self-sufficient Minecraft server network framework. Designed to eliminate third-party dependencies, AquaForge delivers an enterprise web orchestrator with 1-click server wizards, zero-portforward Edge tunnels, and **23 native standalone flagship plugins** authored from scratch.
+**AquaForge** is a complete, self-sufficient Minecraft server network framework. Designed to eliminate third-party dependencies, AquaForge delivers an enterprise web orchestrator with 1-click server wizards, zero-portforward Edge tunnels, and **24 native standalone flagship plugins** authored from scratch.
 
 <br />
 
@@ -22,7 +22,7 @@
 
 </div>
 
-## 📦 The 23 Flagship Plugin Suite
+## 📦 The 24 Flagship Plugin Suite
 
 Every plugin in the Aqua ecosystem is built with modern Java 21, Paper 1.21 Data Components, and Kyori Adventure. Zero external dependencies required.
 
@@ -69,6 +69,7 @@ Every plugin in the Aqua ecosystem is built with modern Java 21, Paper 1.21 Data
 ### 🎁 Gamification, Rewards & Quests
 | Plugin | Version | Description |
 |---|---|---|
+| 🪂 [**AquaEvents**](https://github.com/efekkoc/AquaEvents) | `1.20.x – 1.21.11` | Automated survival events, 1.21 Display wilderness airdrops & chat trivia |
 | 🎁 [**AquaCrates**](https://github.com/efekkoc/AquaCrates) | `1.20.x – 1.21.11` | 3D particle spiral animated loot boxes, sound pitch escalation & guaranteed pity |
 | 🎫 [**AquaPass**](https://github.com/efekkoc/AquaPass) | `1.20.x – 1.21.11` | Seasonal Battle Pass with Free/Premium dual tracks, daily quests & 54-slot menu |
 | 🎯 [**AquaBounties**](https://github.com/efekkoc/AquaBounties) | `1.20.x – 1.21.11` | Player head cash bounties, hunter tracking compass & collectible victim skulls |
