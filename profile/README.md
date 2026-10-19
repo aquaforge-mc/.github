@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ AquaForge Ecosystem
-### The Next-Generation Minecraft Server Studio & 22 Flagship Plugin Suite
+### The Next-Generation Minecraft Server Studio & 23 Flagship Plugin Suite
 **Universal Support for Paper / Purpur 1.20.x through 1.21.11 (Mounts of Mayhem Ready)**
 
 [![PaperMC](https://img.shields.io/badge/Platform-Paper%20%7C%20Purpur-00d2ff?style=for-the-badge&logo=minecraft)](https://papermc.io)
@@ -12,7 +12,7 @@
 ---
 
 ### 🌐 Welcome to AquaForge
-**AquaForge** is a complete, self-sufficient Minecraft server network framework. Designed to eliminate third-party dependencies, AquaForge delivers an enterprise web orchestrator with 1-click server wizards, zero-portforward Edge tunnels, and **22 native standalone flagship plugins** authored from scratch.
+**AquaForge** is a complete, self-sufficient Minecraft server network framework. Designed to eliminate third-party dependencies, AquaForge delivers an enterprise web orchestrator with 1-click server wizards, zero-portforward Edge tunnels, and **23 native standalone flagship plugins** authored from scratch.
 
 <br />
 
@@ -22,13 +22,14 @@
 
 </div>
 
-## 📦 The 22 Flagship Plugin Suite
+## 📦 The 23 Flagship Plugin Suite
 
 Every plugin in the Aqua ecosystem is built with modern Java 21, Paper 1.21 Data Components, and Kyori Adventure. Zero external dependencies required.
 
 ### 🛡️ Security, Moderation & Telemetry
 | Plugin | Version | Description |
 |---|---|---|
+| 🔒 [**AquaAuth**](https://github.com/efekkoc/AquaAuth) | `1.20.x – 1.21.11` | Enterprise player registration, password confirmation & session lockdown gatekeeper |
 | 🛡️ [**AquaSecurity**](https://github.com/efekkoc/AquaSecurity) | `1.20.x – 1.21.11` | Enterprise 2FA RFC 6238 TOTP (Google Authenticator) & session freeze lockdown |
 | 🐕 [**AquaWatchdog**](https://github.com/efekkoc/AquaWatchdog) | `1.20.x – 1.21.11` | Real-time sliding window CPS, raycast vector reach anti-cheat & Discord webhook triage |
 | 👮 [**AquaStaff**](https://github.com/efekkoc/AquaStaff) | `1.20.x – 1.21.11` | Unified staff mode (`/staff`), silent vanish, suspect freeze lockdown & live `/invsee` |
