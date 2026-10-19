@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ AquaForge Ecosystem
-### The Next-Generation Minecraft Server Studio & 20 Flagship Plugin Suite
+### The Next-Generation Minecraft Server Studio & 21 Flagship Plugin Suite
 **Universal Support for Paper / Purpur 1.20.x through 1.21.11 (Mounts of Mayhem Ready)**
 
 [![PaperMC](https://img.shields.io/badge/Platform-Paper%20%7C%20Purpur-00d2ff?style=for-the-badge&logo=minecraft)](https://papermc.io)
@@ -12,7 +12,7 @@
 ---
 
 ### 🌐 Welcome to AquaForge
-**AquaForge** is a complete, self-sufficient Minecraft server network framework. Designed to eliminate third-party dependencies, AquaForge delivers an enterprise web orchestrator with 1-click server wizards, zero-portforward Edge tunnels, and **20 native standalone flagship plugins** authored from scratch.
+**AquaForge** is a complete, self-sufficient Minecraft server network framework. Designed to eliminate third-party dependencies, AquaForge delivers an enterprise web orchestrator with 1-click server wizards, zero-portforward Edge tunnels, and **21 native standalone flagship plugins** authored from scratch.
 
 <br />
 
@@ -22,7 +22,7 @@
 
 </div>
 
-## 📦 The 20 Flagship Plugin Suite
+## 📦 The 21 Flagship Plugin Suite
 
 Every plugin in the Aqua ecosystem is built with modern Java 21, Paper 1.21 Data Components, and Kyori Adventure. Zero external dependencies required.
 
@@ -39,9 +39,10 @@ Every plugin in the Aqua ecosystem is built with modern Java 21, Paper 1.21 Data
 | 🏦 [**AquaEconomy**](https://github.com/efekkoc/AquaEconomy) | `1.20.x – 1.21.11` | Sub-millisecond in-memory banking, Vault API provider, interest rates & peer `/pay` |
 | 🛒 [**AquaMarket**](https://github.com/efekkoc/AquaMarket) | `1.20.x – 1.21.11` | 54-slot virtual auction house (`/ah`), anti-loss return mailbox & sales tax sinks |
 
-### 🗺️ World, Claims & Radar
+### 🗺️ World, Claims & Civilizations
 | Plugin | Version | Description |
 |---|---|---|
+| 🏛️ [**AquaNations**](https://github.com/efekkoc/AquaNations) | `1.20.x – 1.21.11` | Enterprise civilizations, towns, nations & 3D display monuments engine |
 | 🗺️ [**AquaMap**](https://github.com/efekkoc/AquaMap) | `1.20.x – 1.21.11` | Clientless hardware-accelerated 60 FPS Canvas minimap, player radar & HUD compass |
 | 🚩 [**AquaClaims**](https://github.com/efekkoc/AquaClaims) | `1.20.x – 1.21.11` | Chunk-based land claiming, glowing particle border walls, grief prevention & `/trust` |
 | 🌀 [**AquaWarps**](https://github.com/efekkoc/AquaWarps) | `1.20.x – 1.21.11` | Async raycast safe-RTP, multi-homes, public warps, peer `/tpa` & 3s PvP warmup |
