@@ -1,7 +1,7 @@
 <div align="center">
 
 # ⚡ AquaForge Ecosystem
-### The Next-Generation Minecraft Server Studio & 25 Flagship Plugin Suite
+### The Next-Generation Minecraft Server Studio & 26 Flagship Plugin Suite
 **Universal Support for Paper / Purpur 1.20.x through 1.21.11 (Mounts of Mayhem Ready)**
 
 [![PaperMC](https://img.shields.io/badge/Platform-Paper%20%7C%20Purpur-00d2ff?style=for-the-badge&logo=minecraft)](https://papermc.io)
@@ -12,7 +12,7 @@
 ---
 
 ### 🌐 Welcome to AquaForge
-**AquaForge** is a complete, self-sufficient Minecraft server network framework. Designed to eliminate third-party dependencies, AquaForge delivers an enterprise web orchestrator with 1-click server wizards, zero-portforward Edge tunnels, and **25 native standalone flagship plugins** authored from scratch.
+**AquaForge** is a complete, self-sufficient Minecraft server network framework. Designed to eliminate third-party dependencies, AquaForge delivers an enterprise web orchestrator with 1-click server wizards, zero-portforward Edge tunnels, and **26 native standalone flagship plugins** authored from scratch.
 
 <br />
 
@@ -22,7 +22,7 @@
 
 </div>
 
-## 📦 The 25 Flagship Plugin Suite
+## 📦 The 26 Flagship Plugin Suite
 
 Every plugin in the Aqua ecosystem is built with modern Java 21, Paper 1.21 Data Components, and Kyori Adventure. Zero external dependencies required.
 
@@ -37,6 +37,7 @@ Every plugin in the Aqua ecosystem is built with modern Java 21, Paper 1.21 Data
 ### 💰 Economy, Monetization & Web Store
 | Plugin | Version | Description |
 |---|---|---|
+| 🤝 [**AquaTrade**](https://github.com/efekkoc/AquaTrade) | `1.20.x – 1.21.11` | Enterprise player-to-player trade GUI, anti-scam countdown, item, money & XP exchange |
 | 👑 [**AquaVIP**](https://github.com/efekkoc/AquaVIP) | `1.20.x – 1.21.11` | Enterprise web-store delivery sync, timed subscriptions, full server priority bypass & perks suite |
 | 🏦 [**AquaEconomy**](https://github.com/efekkoc/AquaEconomy) | `1.20.x – 1.21.11` | Sub-millisecond in-memory banking, Vault API provider, interest rates & peer `/pay` |
 | 🛒 [**AquaMarket**](https://github.com/efekkoc/AquaMarket) | `1.20.x – 1.21.11` | 54-slot virtual auction house (`/ah`), anti-loss return mailbox & sales tax sinks |
